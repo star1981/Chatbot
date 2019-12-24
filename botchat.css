@@ -23,7 +23,7 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {
   visibility: hidden; }
 
 .wc-header {
-  background-color: #ff6600;
+  background-color: #0078d7;
   box-shadow: 0 1px rgba(0, 0, 0, 0.2);
   box-sizing: content-box;
   color: #ffffff;
@@ -409,8 +409,7 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {
   height: 50px;
   left: 0;
   position: absolute;
-  right: 0;
-  }
+  right: 0; }
   .wc-console > .wc-upload,
   .wc-console > .wc-textbox,
   .wc-console > .wc-send,
